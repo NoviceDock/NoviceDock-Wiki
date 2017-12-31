@@ -7,7 +7,7 @@ We care about communication, so we check our messages **daily**. If you have any
 ### Reddit <img src="http://i.imgur.com/sdO8tAw.png" width=25 height=25 />
 Website updates and syllabus releases are always posted on the [r/NoviceDock subreddit](https://www.reddit.com/r/NoviceDock/). If you have any website feedback, or want to post something to the entire NoviceDock community, feel free to post it in here.
 
-### Telegram
+### Telegram <img src="https://seeklogo.com/images/T/telegram-logo-52EACC2D94-seeklogo.com.png" width=25 height=25 />
 Join our [Telegram](https://t.me/novicedock) `https://t.me/novicedock`
 
 ## Contribute
