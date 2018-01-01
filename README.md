@@ -1,5 +1,8 @@
 # The NoviceDock Wiki
 
+## Directory
+* [What is it?](#what-is-it?)
+
 ## What is it?
 You find something new you want to learn. At first, the rush is exciting, there's so many great and fun resources that provide you the tools to start off. 
 
