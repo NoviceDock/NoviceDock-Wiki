@@ -1,7 +1,14 @@
 # The NoviceDock Wiki
 
 ## Directory
-* [What is it?](#what-is-it?)
+* [What is it?](#what-is-it)
+* [Join the NoviceDock Community](#join-the-novicedock-community)
+	* [Reddit](#reddit-)
+	* [Telegram](#telegram-)
+* [Contribute](#contribute)
+	* [Write For NoviceDock](#write-for-novicedock)
+		* [Steps for Writing a Syllabus](#steps-for-writing-a-syllabus)
+	* [Submit a Resource](#submit-a-resource)
 
 ## What is it?
 You find something new you want to learn. At first, the rush is exciting, there's so many great and fun resources that provide you the tools to start off. 
@@ -43,4 +50,4 @@ Did you feel lost when learning a new topic? Help others avoid that problem by p
 ### Submit a Resource
 Once a syllabus is posted, we don't like to stop there. Information is constantly changing and new better resources are always becoming available. 
 
-Did you build a good resource? Tell us! You don't need to hide that you created it, we don't judge. We judge solely on the quality of the content, so self-promotion is okay.
+Did you build a good resource? Tell us! You don't need to hide that you created it, we don't judge. We judge solely on the quality of the content, so self-promotion is okay. Once again, reach out to hello@novicedock.com. 
