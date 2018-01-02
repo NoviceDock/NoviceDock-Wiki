@@ -37,7 +37,7 @@ Join our [Telegram](https://t.me/novicedock). Think of it as a group channel for
 
 ## Contribute
 ### Write For NoviceDock
-Did you feel lost when learning a new topic? Help others avoid that problem by putting together
+Did you feel lost when learning a new topic? Help others avoid that problem by putting together a syllabus with all the resources you've scavaged from the internet.
 
 #### Steps to Writing a Syllabus
 1. Contact hello@novicedock.com with your syllabus idea. It does not have to fall into our current categories, but that would be preferred.
