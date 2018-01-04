@@ -35,7 +35,7 @@ Along with answering the what and how, it’s also important to answer why. That
 
 Learning is a journey, and each section should be a vital part of the journey. Reading any type of documentation can be extremely dry. We want the readers at NoviceDock to feel like they are part of a movement, and that they truly belong in the [insert-syllabus-topic] community. Remember, you are their guide and mentor!
 
-One of our best examples of a syllabus with good story telling is our [Intro to Marketing Syllabus]. We highly recommend that you read it before writing.
+One of our best examples of a syllabus with good story telling is our [Intro to Marketing](https://novicedock.com/learn/business/intro-to-marketing). We highly recommend that you read it before writing.
 
 ## Providing Context
 
@@ -54,7 +54,7 @@ Give some background on the section, a small history lesson perhaps. What was th
 
 ## Answering Why
 
-The best piece of information a syllabus can provide is why. Why is this section part of the. And why is it placed where it is. How does it connect to the rest of the syllabus. Transitioning well from one paragraph to the next, or one section to the next, is extremely important.
+The best piece of information a syllabus can provide is why. Why is this section part of the syllabus. And why is it placed where it is. How does it connect to the rest of the syllabus. Transitioning well from one paragraph to the next, or one section to the next, is extremely important.
 
 ## Bad Example
 
