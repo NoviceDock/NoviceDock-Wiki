@@ -6,19 +6,19 @@
 	* [Reddit](#reddit-)
 	* [Telegram](#telegram-)
 * [Write For Us](#write-for-us)
-	* [Why Become a Mentor For NoviceDock](#why-become-a-mentor-for-noviceDock)
+	* [Why Become a Mentor For NoviceDock](#why-become-a-mentor-for-novicedock)
 		* [Visibility](#visibility-1)
 		* [Community Perks](#community-perks)
 		* [Learn](#learn)
 		* [Donations](#donations)
 	* [Steps to Writing a Syllabus](#steps-to-writing-a-syllabus)
-	* [Submit a Resource](#submit-a-resource)
-		* [Why Submit a Resource?](#why-submit-a-resource)
-			* [Educate](#educate)
-			* [Self-Promotion](#self-promotion)
-			* [Visibility](#visibility-2)
-		* [How to Submit a Resource](#how-to-submit-a-resource)
-			* [Optional further steps:](#optional-further-steps)
+* [Submit a Resource](#submit-a-resource)
+	* [Why Submit a Resource?](#why-submit-a-resource)
+		* [Educate](#educate)
+		* [Self-Promotion](#self-promotion)
+		* [Visibility](#visibility-2)
+	* [How to Submit a Resource](#how-to-submit-a-resource)
+		* [Optional further steps:](#optional-further-steps)
 
 # What is it?
 You find something new you want to learn. At first, the rush is exciting, there's so many great and fun resources that provide you the tools to start off. 
@@ -76,21 +76,21 @@ Join our [Telegram](https://t.me/novicedock). Think of it as a group channel for
 
 Throughout the process we'll read over the syllabus and comment, to make sure it's going in the right direction. If you would like an help from the community, let us know and we will try to arrange that.
 
-## Submit a Resource
+# Submit a Resource
 Once a syllabus is posted, we don't like to stop there. Information is constantly changing and new better resources are always becoming available. 
 
-### Why Submit a Resource?
-#### Educate
+## Why Submit a Resource?
+### Educate
 * Not every person has access to the education they want and deserve. Whether it be a financial issue, or just a high school that doesn’t offer a specific course, thousands of novices rely on people like you to help educate them. Be a part of that movement. Every little bit helps. 
 
-#### Self-Promotion 
+### Self-Promotion 
 * Unlike most platforms, we love self-made resources. It’s not spam to us. We judge every resource on by its quality. If it’s up to our standard, and the community’s standard, we’ll add it to the platform. Prove to us why it meets this standard.
 
-#### Visibility
+### Visibility
 * NoviceDock gets over 10,000 pageviews per month. 
 
-### How to Submit a Resource
+## How to Submit a Resource
 There’s only one step, email us the resource at hello@novicedock.com. Tell us which syllabus you’d like it to be a part of, and why
 
-#### Optional further steps:
+### Optional further steps:
 1. Subscribe to the [NoviceDock subreddit](https://www.reddit.com/r/NoviceDock/) so we can add/update your flair.
