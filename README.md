@@ -6,18 +6,17 @@
 	* [Reddit](#reddit-)
 	* [Telegram](#telegram-)
 * [Contribute](#contribute)
-	* [Why Become a Mentor For NoviceDock](#why-become-a-mentor-for-oviceDock)
-	* [Write For NoviceDock](#write-for-novicedock)
-		* [Visibility](#visibility)
+	* [Why Become a Mentor For NoviceDock](#why-become-a-mentor-for-noviceDock)
+		* [Visibility](#visibility-1)
 		* [Community Perks](#community-perks)
 		* [Learn](#learn)
 		* [Donations](#donations)
 	* [Steps to Writing a Syllabus](#steps-to-writing-a-syllabus)
 	* [Submit a Resource](#submit-a-resource)
-		* [Why Contribute to NoviceDock by Submitting a Resource?](#why-contribute-to-noviceDock-by-submitting-a-resource)
+		* [Why Submit a Resource?](#why-submit-a-resource)
 			* [Educate](#educate)
 			* [Self-Promotion](#self-promotion)
-			* [Visibility](#visibility)
+			* [Visibility](#visibility-2)
 		* [How to Submit a Resource](#how-to-submit-a-resource)
 			* [Optional further steps:](#optional-further-steps)
 
@@ -80,7 +79,7 @@ Throughout the process we'll read over the syllabus and comment, to make sure it
 ## Submit a Resource
 Once a syllabus is posted, we don't like to stop there. Information is constantly changing and new better resources are always becoming available. 
 
-### Why Contribute to NoviceDock by Submitting a Resource?
+### Why Submit a Resource?
 #### Educate
 * Not every person has access to the education they want and deserve. Whether it be a financial issue, or just a high school that doesn’t offer a specific course, thousands of novices rely on people like you to help educate them. Be a part of that movement. Every little bit helps. 
 
