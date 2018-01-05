@@ -6,9 +6,20 @@
 	* [Reddit](#reddit-)
 	* [Telegram](#telegram-)
 * [Contribute](#contribute)
+	* [Why Become a Mentor For NoviceDock](#why-become-a-mentor-for-oviceDock)
 	* [Write For NoviceDock](#write-for-novicedock)
-		* [Steps for Writing a Syllabus](#steps-for-writing-a-syllabus)
+		* [Visibility](#visibility)
+		* [Community Perks](#community-perks)
+		* [Learn](#learn)
+		* [Donations](#donations)
+	* [Steps to Writing a Syllabus](#steps-to-writing-a-syllabus)
 	* [Submit a Resource](#submit-a-resource)
+		* [Why Contribute to NoviceDock by Submitting a Resource?](#why-contribute-to-noviceDock-by-submitting-a-resource)
+			* [Educate](#educate)
+			* [Self-Promotion](#self-promotion)
+			* [Visibility](#visibility)
+		* [How to Submit a Resource](#how-to-submit-a-resource)
+			* [Optional further steps:](#optional-further-steps)
 
 ## What is it?
 You find something new you want to learn. At first, the rush is exciting, there's so many great and fun resources that provide you the tools to start off. 
@@ -38,7 +49,7 @@ Join our [Telegram](https://t.me/novicedock). Think of it as a group channel for
 # Contribute
 ## Why Become a Mentor For NoviceDock?
 ### Visibility
-* Get your syllabus seen by over {{ amount of visitors }}
+* Get your syllabus seen by over 10,000 pageviews per month
 * Create your own resources relative to the topic you’re mentoring? Place them wherever you want, it’s your syllabus! We do not allow over 30% of the resources to be your own.
 * Get your syllabus featured on cool websites like Product Hunt. We’ll do the marketing for you.
 * Share your own personal links and/or projects you’d like to raise awareness about in the “Mentor” section of the syllabus
@@ -53,10 +64,10 @@ Join our [Telegram](https://t.me/novicedock). Think of it as a group channel for
 * Some mentors come into the syllabus knowing everything, other mentors write them because THEY want to learn. The mentors who choose the latter route can sometimes end up being better teachers, because they link like beginners.
 
 ### Donations
-* NoviceDock uses BuyMeACoffee.com for donations. Readers cans donate to NoviceDock and specify the writer who we would like to donate to. This information is public, and we will transfer you any donations biweekly. 
+* NoviceDock uses [BuyMeACoffee.com](https://www.buymeacoffee.com/novicedock) for donations. Readers cans donate to NoviceDock and specify the writer who we would like to donate to. This information is public, and we will transfer you any donations biweekly. 
 * For those donations were the writer is not specified, 50% of those donations will be sprinkled to writer’s of our most popular content. The other 50% will go towards more syllabi creation (which you can be a part of as well!)
 
-#### Steps to Writing a Syllabus
+## Steps to Writing a Syllabus
 1. Contact hello@novicedock.com with your syllabus idea. It does not have to fall into our current categories, but that would be preferred.
 2. If we agree, we'll set up a shared Google Doc template that the syllabus will be written in.
 3. Read the documentation, [How to Write a NoviceDock Syllabus](https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/How_To_Write_a_Syllabus.md). Writing a syllabus is slightly different than directly teaching, so it's important to understand how to write one. 
@@ -69,7 +80,7 @@ Throughout the process we'll read over the syllabus and comment, to make sure it
 ## Submit a Resource
 Once a syllabus is posted, we don't like to stop there. Information is constantly changing and new better resources are always becoming available. 
 
-### Why contribute to NoviceDock by submitting a resource?
+### Why Contribute to NoviceDock by Submitting a Resource?
 #### Educate
 * Not every person has access to the education they want and deserve. Whether it be a financial issue, or just a high school that doesn’t offer a specific course, thousands of novices rely on people like you to help educate them. Be a part of that movement. Every little bit helps. 
 
@@ -82,5 +93,5 @@ Once a syllabus is posted, we don't like to stop there. Information is constantl
 ### How to Submit a Resource
 There’s only one step, email us the resource at hello@novicedock.com. Tell us which syllabus you’d like it to be a part of, and why
 
-Optional further steps:
+#### Optional further steps:
 1. Subscribe to the [NoviceDock subreddit](https://www.reddit.com/r/NoviceDock/) so we can add/update your flair.
