@@ -12,7 +12,7 @@ If you are interested, look at the departments below, and send me an email at br
 
 ### Brad Mitchell (Founder)
 
-<img src="https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/Assets/Github%20Assets/Brad-headshot.jpg" width="128" height="128" />
+<img src="https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/Assets/Github/Brad-headshot.jpg" width="128" height="128" />
 
 Computer Science @ Rutgers University. Web Developer. [YouTuber](https://www.youtube.com/user/LCBradley3k). Guitar Player. Active Learner.
 
@@ -20,7 +20,7 @@ My last project was a platform to upload and download modifications for a PC gam
 
 ### Robert Neal (Co-Founder)
 
-<img src="https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/Assets/Github%20Assets/Rob-headshot.jpg" width="128" height="128" />
+<img src="https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/Assets/Github/Rob-headshot.jpg" width="128" height="128" />
 
 Rutgers Alumni. Front-end Developer. Storyteller. Active Learner. Social Connector. 
 
