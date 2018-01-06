@@ -31,7 +31,7 @@
 * Get a mentor badge on NoviceDock
 
 ### Learn
-* Some mentors come into the syllabus knowing everything, other mentors write them because THEY want to learn. The mentors who choose the latter route can sometimes end up being better teachers, because they link like beginners.
+* Some mentors come into the syllabus knowing everything, other mentors write them because THEY want to learn. The mentors who choose the latter route can sometimes end up being better teachers, because they think like beginners.
 
 ### Donations
 * NoviceDock uses [BuyMeACoffee.com](https://www.buymeacoffee.com/novicedock) for donations. Readers cans donate to NoviceDock and specify the writer who we would like to donate to. This information is public, and we will transfer you any donations biweekly. 
