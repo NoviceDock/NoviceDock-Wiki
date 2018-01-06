@@ -1,3 +1,21 @@
+# Contribute
+
+## Table of Contents
+- [Write For Us](#write-for-us)
+  * [Why Become a Mentor For NoviceDock?](#why-become-a-mentor-for-novicedock)
+    + [Visibility](#visibility)
+    + [Community Perks](#community-perks)
+    + [Learn](#learn)
+    + [Donations](#donations)
+  * [Steps to Writing a Syllabus](#steps-to-writing-a-syllabus)
+- [Submit a Resource](#submit-a-resource)
+  * [Why Submit a Resource?](#why-submit-a-resource)
+    + [Educate](#educate)
+    + [Self-Promotion](#self-promotion)
+    + [Visibility](#visibility-1)
+  * [How to Submit a Resource](#how-to-submit-a-resource)
+    + [Optional further steps:](#optional-further-steps)
+
 # Write For Us
 ## Why Become a Mentor For NoviceDock?
 ### Visibility

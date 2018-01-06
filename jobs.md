@@ -1,5 +1,12 @@
 # Work With NoviceDock
 
+## Table of Contents
+- [Meet the team](#meet-the-team)
+- [Departments](#departments)
+  * [Marketing](#marketing)
+  * [Outreach](#outreach)
+  * [Development](#development)
+
 This page is specifically meant for those who are interested in joining the NoviceDock team. If you would like to write a syllabus or suggest a resource, please check out the [Contribute](https://github.com/NoviceDock/NoviceDock-Wiki#contribute) section of the wiki homepage.
 
 We are currently in the beginning phase of NoviceDock. We launched in late August of 2017 and our main focus has been learning about our audience, product development, and content creation.
@@ -26,13 +33,13 @@ Rutgers Alumni. Front-end Developer. Storyteller. Active Learner. Social Connect
 
 ## Departments
 
-#### Marketing
+### Marketing
 We love storytelling. If you'd like to improve your storytelling skills this would certainly be an area you want to join. 
 
-#### Outreach
+### Outreach
 Help NoviceDock communicate with current partners, and search for other strategic partnerships.
 
-#### Development
+### Development
 Our website is built with a completely custom WordPress theme. As we learn about our audience, we fix parts of our website and add features to enhance the overall user experience. 
 
 If you are not too much of a coder, we'd also love for someone to help out with design.

@@ -1,24 +1,17 @@
 # The NoviceDock Wiki
 
-## Directory
-* [What is it?](#what-is-it)
-* [Join the NoviceDock Community](#join-the-novicedock-community)
-	* [Reddit](#reddit-)
-	* [Telegram](#telegram-)
-* [Write For Us](#write-for-us)
-	* [Why Become a Mentor For NoviceDock](#why-become-a-mentor-for-novicedock)
-		* [Visibility](#visibility-1)
-		* [Community Perks](#community-perks)
-		* [Learn](#learn)
-		* [Donations](#donations)
-	* [Steps to Writing a Syllabus](#steps-to-writing-a-syllabus)
-* [Submit a Resource](#submit-a-resource)
-	* [Why Submit a Resource?](#why-submit-a-resource)
-		* [Educate](#educate)
-		* [Self-Promotion](#self-promotion)
-		* [Visibility](#visibility-2)
-	* [How to Submit a Resource](#how-to-submit-a-resource)
-		* [Optional further steps:](#optional-further-steps)
+## Documentation Directory
+This documentation is organized into multiple markdown files. Here we provide a directory of those files, along with a summary of what they are for. 
+- [Branding](branding.md) :fish: - What fonts and colors we use. Also an assets section for publications.
+- [Contribute](contribute.md) :raising_hand: - Everything you need to know about becoming a mentor and submitting a resource.
+- [Jobs](jobs.md) :house_with_garden: - We have a small team that does a lot, and are always looking to grow!
+- [Syllabus Tutorial](syllabus-tutorial.md) :book: - If you choose to [contribute](contribute.md), this will be the next doc you go to, to understand how a NoviceDock syllabus is be written.
+
+## Table of Contents
+- [What is it?](#what-is-it)
+- [Join the NoviceDock Community](#join-the-novicedock-community)
+  * [Reddit](#reddit)
+  * [Telegra](#telegram)
 
 # What is it?
 You find something new you want to learn. At first, the rush is exciting, there's so many great and fun resources that provide you the tools to start off. 

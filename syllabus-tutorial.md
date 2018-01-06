@@ -2,6 +2,26 @@
 
 _Written by Bradley Mitchell_
 
+## Table of Contents
+  * [How is a syllabus different from a course?](#how-is-a-syllabus-different-from-a-course)
+  * [What, How, Why](#what--how--why)
+- [Storytelling](#storytelling)
+  * [Providing Context](#providing-context)
+  * [Content Hierarchy](#content-hierarchy)
+  * [Setting the Stage](#setting-the-stage)
+  * [Answering Why](#answering-why)
+  * [Bad Example](#bad-example)
+- [Before Writing](#before-writing)
+  * [Community Input](#community-input)
+  * [Read Other Syllabi](#read-other-syllabi)
+- [Specifications](#specifications)
+  * [Introduction](#introduction)
+  * [Prerequisites](#prerequisites)
+  * [Last Sections](#last-sections)
+  * [Author](#author)
+  * [Length](#length)
+- [After Publishing](#after-publishing)
+
 First, understand NoviceDock is not Udemy, not Khan Academy, not Coursera, not an online course platform. Udemy is fantastic for knowing exactly what you want to learn, and then finding an online video course to start or expand your knowledge. More specifically, it’s meant for a **single phase** of learning a specific topic. Once you finish that video course, you are on your own, often asking, what’s next?
 
 ## How is a syllabus different from a course?
