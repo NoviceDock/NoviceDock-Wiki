@@ -13,6 +13,7 @@ Our team at NoviceDock has put together a few of our branding assets to be used 
 
 ## Logo
 ![NoviceDock Logo](/Assets/Company/logo-main/novicedock-512w.png)
+
 Our logo uses a Google Web Font called Ramaraja
 
 ## Text
@@ -45,8 +46,9 @@ None of these may be altered. If you choose to reference NoviceDock, it must hav
 
 ### Transparent
 ![NoviceDock Logo](/Assets/Company/logo-transparent-background/logo-transparent-512w.png)
+
 If for some reason the background you are placing our logo on does not work with the main, feel free to use the transparent logo. Use only on light backgrounds!
 
 ### Thumbnail
-![NoviceDock Logo](/Assets/Company/logo-thumb/logo-thumbnail-256x256.png)
+![NoviceDock Logo](/Assets/Company/logo-thumbnail/logo-thumb-256x256.png)
 If you need a square version of the logo, use this.
