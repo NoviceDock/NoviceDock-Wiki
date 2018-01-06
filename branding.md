@@ -44,6 +44,8 @@ None of these may be altered. If you choose to reference NoviceDock, it must hav
 ### Main
 ![NoviceDock Logo](/Assets/Company/logo-main/novicedock-512w.png)
 
+We prefer the main version of the logo be used by any publication.
+
 ### Transparent
 ![NoviceDock Logo](/Assets/Company/logo-transparent-background/logo-transparent-512w.png)
 
@@ -51,4 +53,5 @@ If for some reason the background you are placing our logo on does not work with
 
 ### Thumbnail
 ![NoviceDock Logo](/Assets/Company/logo-thumbnail/logo-thumb-256x256.png)
+
 If you need a square version of the logo, use this.
