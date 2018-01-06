@@ -19,8 +19,8 @@
 # Write For Us
 ## Why Become a Mentor For NoviceDock?
 ### Visibility
-* Get your syllabus seen by over 10,000 pageviews per month
-* Create your own resources relative to the topic you’re mentoring? Place them wherever you want, it’s your syllabus! We do not allow over 30% of the resources to be your own.
+* Get your syllabus seen, we have over 10,000 pageviews per month
+* Have you created your own resources relative to the topic you’re mentoring? Place them wherever you want, it’s your syllabus! Keep in mind ee do not allow over 30% of the resources to be your own.
 * Get your syllabus featured on cool websites like Product Hunt. We’ll do the marketing for you.
 * Share your own personal links and/or projects you’d like to raise awareness about in the “Mentor” section of the syllabus
 
@@ -34,8 +34,8 @@
 * Some mentors come into the syllabus knowing everything, other mentors write them because THEY want to learn. The mentors who choose the latter route can sometimes end up being better teachers, because they think like beginners.
 
 ### Donations
-* NoviceDock uses [BuyMeACoffee.com](https://www.buymeacoffee.com/novicedock) for donations. Readers cans donate to NoviceDock and specify the writer who we would like to donate to. This information is public, and we will transfer you any donations biweekly. 
-* For those donations were the writer is not specified, 50% of those donations will be sprinkled to writer’s of our most popular content. The other 50% will go towards more syllabi creation (which you can be a part of as well!)
+* NoviceDock uses [BuyMeACoffee.com](https://www.buymeacoffee.com/novicedock) for donations. Readers cans donate to NoviceDock and specify the writer who they would like to donate to. This information is public, and we will transfer you any donations biweekly. 
+* For those donations where the writer is not specified, 50% of those donations will be sprinkled to writers of our most popular content. The other 50% will go towards more syllabi creation (which you can be a part of as well!)
 
 ## Steps to Writing a Syllabus
 1. Contact hello@novicedock.com with your syllabus idea. It does not have to fall into our current categories, but that would be preferred.
@@ -55,13 +55,13 @@ Once a syllabus is posted, we don't like to stop there. Information is constantl
 * Not every person has access to the education they want and deserve. Whether it be a financial issue, or just a high school that doesn’t offer a specific course, thousands of novices rely on people like you to help educate them. Be a part of that movement. Every little bit helps. 
 
 ### Self-Promotion 
-* Unlike most platforms, we love self-made resources. It’s not spam to us. We judge every resource on by its quality. If it’s up to our standard, and the community’s standard, we’ll add it to the platform. Prove to us why it meets this standard.
+* Unlike most platforms, we love self-made resources. It’s not spam to us. We judge every resource by its quality. If it’s up to our standard, and the community’s standard, we’ll add it to the platform. Prove to us why it meets the standard.
 
 ### Visibility
 * NoviceDock gets over 10,000 pageviews per month. 
 
 ## How to Submit a Resource
-There’s only one step, email us the resource at hello@novicedock.com. Tell us which syllabus you’d like it to be a part of, and why
+There’s only one step, email us the resource at hello@novicedock.com. Tell us which syllabus you’d like it to be a part of, and why.
 
 ### Optional further steps:
 1. Subscribe to the [NoviceDock subreddit](https://www.reddit.com/r/NoviceDock/) so we can add/update your flair.
