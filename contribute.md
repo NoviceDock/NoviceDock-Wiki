@@ -19,7 +19,7 @@
 # Write For Us
 ## Why Become a Mentor For NoviceDock?
 ### Visibility
-* Get your syllabus seen, we have over 10,000 pageviews per month
+* Get your syllabus seen, NoviceDock receives over 20,000 pageviews per month
 * Have you created your own resources relative to the topic you’re mentoring? Place them wherever you want, it’s your syllabus! Keep in mind ee do not allow over 30% of the resources to be your own.
 * Get your syllabus featured on cool websites like Product Hunt. We’ll do the marketing for you.
 * Share your own personal links and/or projects you’d like to raise awareness about in the “Mentor” section of the syllabus
