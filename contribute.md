@@ -58,7 +58,7 @@ Once a syllabus is posted, we don't like to stop there. Information is constantl
 * Unlike most platforms, we love self-made resources. It’s not spam to us. We judge every resource by its quality. If it’s up to our standard, and the community’s standard, we’ll add it to the platform. Prove to us why it meets the standard.
 
 ### Visibility
-* NoviceDock gets over 10,000 pageviews per month. 
+* NoviceDock gets over 20,000 pageviews per month. 
 
 ## How to Submit a Resource
 There’s only one step, email us the resource at hello@novicedock.com. Tell us which syllabus you’d like it to be a part of, and why.
