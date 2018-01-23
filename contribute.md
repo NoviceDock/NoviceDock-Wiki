@@ -40,7 +40,7 @@
 ## Steps to Writing a Syllabus
 1. Contact hello@novicedock.com with your syllabus idea. It does not have to fall into our current categories, but that would be preferred.
 2. If we agree, we'll set up a shared Google Doc template that the syllabus will be written in.
-3. Read the documentation, [How to Write a NoviceDock Syllabus](https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/How_To_Write_a_Syllabus.md). Writing a syllabus is slightly different than directly teaching, so it's important to understand how to write one. 
+3. Read the documentation, [How to Write a NoviceDock Syllabus](https://github.com/NoviceDock/NoviceDock-Wiki/blob/master/syllabus-tutorial.md). Writing a syllabus is slightly different than directly teaching, so it's important to understand how to write one. 
 4. Check out some of our other syllabi for inspiration!
 5. Write :)
 6. Provide us with your name, bio, photo (optional), and any links you want to promote for yourself.
